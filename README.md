@@ -2,19 +2,19 @@
 
 ## About me
 
-## *Tools*
+## Tools
 
-## *Tech skills*
+## Tech skills
 
-## *Courses*
+## Courses
 
-## *Recommended blogs*
+## Recommended blogs
 
-## *Books*
+## Books
 
-## *My Test Documentation*
+## My Test Documentation
 
 * Bug Reports
-  ### Bug report for mobile application Zalando
+  #### Bug report for mobile application Zalando
 
-## *My projects*
+## My projects
