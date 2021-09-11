@@ -3,19 +3,26 @@
 ## About me
 
 ## Tools
+* [Screencast-o-matic](https://screencast-o-matic.com/)
+* [AZ Screen Recorder](https://www.dobreprogramy.pl/az-screen-recorder-no-root,program,android,6628599101097601)
+* [Jira](https://www.atlassian.com/pl/software/jira)
+* Github
 
 ## Tech skills
+* Software testing
+* Reporting bugs
+* Creating test cases
 
 ## Courses
-* [Akademia UTest](https://www.utest.com/)
+* [Akademia UTest](https://www.utest.com/) - in progress
 * [Bazy danych MySQL](https://miroslawzelent.pl/kurs-mysql/)
 * [Kurs Gita w praktyce](https://www.youtube.com/watch?v=tvHVafvw16Y) - in progress
-* [Kurs Java dla początkujących](https://www.youtube.com/watch?v=T3Pla6wZd4E&list=PL6aekdNhY7DCM1wGLQCE9eP3kPzu-P7E7&index=2)
-
+* [Kurs Java dla początkujących](https://www.youtube.com/watch?v=T3Pla6wZd4E&list=PL6aekdNhY7DCM1wGLQCE9eP3kPzu-P7E7&index=2) - in progress
 
 ## Recommended blogs
 
 ## Books
+
 
 ## My Test Documentation
 
