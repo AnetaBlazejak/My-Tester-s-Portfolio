@@ -16,6 +16,6 @@
 
 * ### Bug Reports
   #### [Bug report for mobile application Zalando](https://docs.google.com/document/d/1UBKAzUuzPdPOEK8oQfsfzF70FG11VKTZ0uQaSTxKSkY/edit?usp=sharing)
-    #### [Film](https://github.com/AnetaBlazejak/Film-app-zalando/blob/main/zalando.mp4)
+    #### [Film](https://mega.nz/file/TGpTRCyK#FkLlhvbt-ZKX0yLR2nLW0CSShr4hLvSihJ3EUWQBNGI)
 
 ## My projects
