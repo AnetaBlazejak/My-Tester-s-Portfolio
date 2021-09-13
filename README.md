@@ -29,7 +29,7 @@
 ## Books
 * [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [Zawód tester - Radosław Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
-* Certyfikowany tester, Sylabus poziomu podstawowego ISTQB
+* [Certyfikowany tester, Sylabus poziomu podstawowego ISTQB](https://sjsi.org/ist-qb/do-pobrania/)
 * [Testowanie oprogramowania. Podręcznik dla początkujących - Rafał Pawlak](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
 * [Testowanie oprogramowania w praktyce, Studium przypadków 2.0 - Adam Roman, Karolina Zmitrowicz](https://lubimyczytac.pl/ksiazka/4928223/testowanie-oprogramowania-w-praktyce-studium-przypadkow-2-0)
 * [Algorytmy Ilustrowany przewodnik - Aditya Bhargava](https://lubimyczytac.pl/ksiazka/4819674/algorytmy-ilustrowany-przewodnik)
