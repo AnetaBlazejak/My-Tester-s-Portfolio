@@ -16,7 +16,7 @@
 ## Courses
 * [UTest Academy](https://www.utest.com/academy) - in progress
 * [Bazy danych MySQL](https://miroslawzelent.pl/kurs-mysql/)
-* [Kurs Gita w praktyce](https://www.youtube.com/watch?v=tvHVafvw16Y) - in progress
+* [Kurs Gita w praktyce](https://www.[.com/watch?v=tvHVafvw16Y) - in progress
 * [Kurs Java dla początkujących](https://www.youtube.com/watch?v=T3Pla6wZd4E&list=PL6aekdNhY7DCM1wGLQCE9eP3kPzu-P7E7&index=2) - in progress
 
 ## Recommended blogs
@@ -26,14 +26,21 @@
 * [Cherry-IT](http://cherry-it.pl/)
 * [Bloger Sii](https://sii.pl/blog/)
 
-## Books
+## Books read
 * [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [Zawód tester - Radosław Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
 * [Certyfikowany tester, Sylabus poziomu podstawowego ISTQB](https://sjsi.org/ist-qb/do-pobrania/)
+* [Certyfikowany tester zwinny - Rozszerzenie poziomu podstawowego, Sylabus ISTQB](https://sjsi.org/ist-qb/do-pobrania/)
 * [Testowanie oprogramowania. Podręcznik dla początkujących - Rafał Pawlak](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
 * [Testowanie oprogramowania w praktyce, Studium przypadków 2.0 - Adam Roman, Karolina Zmitrowicz](https://lubimyczytac.pl/ksiazka/4928223/testowanie-oprogramowania-w-praktyce-studium-przypadkow-2-0)
 * [Algorytmy Ilustrowany przewodnik - Aditya Bhargava](https://lubimyczytac.pl/ksiazka/4819674/algorytmy-ilustrowany-przewodnik)
 * [Atomowe nawyki. Drobne zmiany, niezwykłe efekty - James Clear](https://lubimyczytac.pl/ksiazka/4898707/atomowe-nawyki-drobne-zmiany-niezwykle-efekty)
+
+## Webinars
+* Testelka.pl live o Selenium
+* Future Collars - Zostań Testerem Oprogramowania
+* Bartosz Kita - Testowanie REST API dla początkujących
+* Fundacja CODE.ME - Tydzień Programisty - Pogadajmy o IT. Praca Juniora
 
 ## My Test Documentation
 
