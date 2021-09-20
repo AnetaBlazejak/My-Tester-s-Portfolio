@@ -27,6 +27,7 @@
 * [Bloger Sii](https://sii.pl/blog/)
 * [Waldemar Szafraniec - wyszkolewas](https://www.wyszkolewas.com.pl/blog/)
 * [Jaktestowac.pl](https://jaktestowac.pl/blog/)
+* [Testelka.pl](https://testelka.pl/blog/)
 
 ## Books read
 * [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
