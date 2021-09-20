@@ -25,6 +25,8 @@
 * [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
 * [Cherry-IT](http://cherry-it.pl/)
 * [Bloger Sii](https://sii.pl/blog/)
+* [Waldemar Szafraniec - wyszkolewas](https://www.wyszkolewas.com.pl/blog/)
+* [Jaktestowac.pl](https://jaktestowac.pl/blog/)
 
 ## Books read
 * [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
