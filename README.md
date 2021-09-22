@@ -3,23 +3,27 @@
 ## About me
 
 ## Tools
+
 * [Screencast-o-matic](https://screencast-o-matic.com/)
 * [AZ Screen Recorder](https://www.dobreprogramy.pl/az-screen-recorder-no-root,program,android,6628599101097601)
 * [Jira](https://www.atlassian.com/pl/software/jira)
 * Github
 
 ## Tech skills
+
 * Software testing
 * Reporting bugs
 * Creating test cases
 
 ## Courses
+
 * [UTest Academy](https://www.utest.com/academy) - in progress
 * [Bazy danych MySQL](https://miroslawzelent.pl/kurs-mysql/)
 * [Kurs Gita w praktyce](https://www.[.com/watch?v=tvHVafvw16Y) - in progress
 * [Kurs Java dla początkujących](https://www.youtube.com/watch?v=T3Pla6wZd4E&list=PL6aekdNhY7DCM1wGLQCE9eP3kPzu-P7E7&index=2) - in progress
 
 ## Recommended blogs
+
 * [Testuj.pl](https://testuj.pl/blog/)
 * [Testerzy.pl](https://testerzy.pl/)
 * [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
@@ -30,6 +34,7 @@
 * [Testelka.pl](https://testelka.pl/blog/)
 
 ## Books read
+
 * [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [Zawód tester - Radosław Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
 * [Certyfikowany tester, Sylabus poziomu podstawowego ISTQB](https://sjsi.org/ist-qb/do-pobrania/)
@@ -40,6 +45,8 @@
 * [Atomowe nawyki. Drobne zmiany, niezwykłe efekty - James Clear](https://lubimyczytac.pl/ksiazka/4898707/atomowe-nawyki-drobne-zmiany-niezwykle-efekty)
 
 ## Webinars
+
+* TestArmy - Jak hakerzy manipulują pracownikami?
 * Testelka.pl live o Selenium
 * Future Collars - Zostań Testerem Oprogramowania
 * Bartosz Kita - Testowanie REST API dla początkujących
