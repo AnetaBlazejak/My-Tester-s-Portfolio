@@ -32,6 +32,8 @@
 * [Waldemar Szafraniec - wyszkolewas](https://www.wyszkolewas.com.pl/blog/)
 * [Jaktestowac.pl](https://jaktestowac.pl/blog/)
 * [Testelka.pl](https://testelka.pl/blog/)
+* [Kobiety do kodu](https://kobietydokodu.pl/)
+* [Testerem być](https://testerembyc.pl/)
 
 ## Books read
 
