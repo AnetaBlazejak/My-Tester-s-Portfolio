@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, my name is Aneta Błażejak. I studied psychology, worked as a secretary and sales and import specialist and now it is time to discover new land. 
+Hi, my name is Aneta Błażejak. I studied psychology, worked as a secretary and sales and import specialist and now it is time to discover new lands. 
 
 I am taking my first steps in the field of testing. I am conscientious and a reliable person, I am good at both teamwork and independent work. 
 I am learning new tools and technologies with pleasure and I am looking for a job that will allow me to become a professional tester.
