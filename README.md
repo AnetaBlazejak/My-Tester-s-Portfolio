@@ -2,6 +2,11 @@
 
 ## About me
 
+Hi, my name is Aneta Błażejak. I studied psychology, worked as a secretary and sales and import specialist and now it is time to discover new land. 
+
+I am taking my first steps in the field of testing. I am conscientious and a reliable person, I am good at both teamwork and independent work. 
+I am learning new tools and technologies with pleasure and I am looking for a job that will allow me to become a professional tester.
+
 ## Tools
 
 * [Screencast-o-matic](https://screencast-o-matic.com/)
@@ -59,5 +64,3 @@
 * ### Bug Reports
   #### [Bug report for mobile application Zalando](https://docs.google.com/document/d/1UBKAzUuzPdPOEK8oQfsfzF70FG11VKTZ0uQaSTxKSkY/edit?usp=sharing)
   #### [Film reporting bug](https://mega.nz/file/TGpTRCyK#FkLlhvbt-ZKX0yLR2nLW0CSShr4hLvSihJ3EUWQBNGI)
-
-## My projects
