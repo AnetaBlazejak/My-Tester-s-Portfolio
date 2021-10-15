@@ -39,6 +39,7 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 * [Testelka.pl](https://testelka.pl/blog/)
 * [Kobiety do kodu](https://kobietydokodu.pl/)
 * [Testerem być](https://testerembyc.pl/)
+* [DlaTesterów.pl](https://www.dlatesterow.pl/)
 
 ## Books read
 
