@@ -13,6 +13,7 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 * [AZ Screen Recorder](https://www.dobreprogramy.pl/az-screen-recorder-no-root,program,android,6628599101097601)
 * [Jira](https://www.atlassian.com/pl/software/jira)
 * Github
+* Slack
 
 ## Tech skills
 
@@ -27,7 +28,7 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 * [Kurs Gita w praktyce](https://www.[.com/watch?v=tvHVafvw16Y) - in progress
 * [Kurs Java dla początkujących](https://www.youtube.com/watch?v=T3Pla6wZd4E&list=PL6aekdNhY7DCM1wGLQCE9eP3kPzu-P7E7&index=2) - in progress
 
-## Recommended blogs
+## Recommended blogs and web sites
 
 * [Testuj.pl](https://testuj.pl/blog/)
 * [Testerzy.pl](https://testerzy.pl/)
@@ -40,6 +41,7 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 * [Kobiety do kodu](https://kobietydokodu.pl/)
 * [Testerem być](https://testerembyc.pl/)
 * [DlaTesterów.pl](https://www.dlatesterow.pl/)
+* [Oh My Dev](https://ohmydev.pl/)
 
 ## Books read
 
