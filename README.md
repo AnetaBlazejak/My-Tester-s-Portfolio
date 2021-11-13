@@ -61,6 +61,7 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 * Future Collars - Zostań Testerem Oprogramowania
 * Bartosz Kita - Testowanie REST API dla początkujących
 * Fundacja CODE.ME - Tydzień Programisty - Pogadajmy o IT. Praca Juniora
+* Adam Gola - Szkolenie dla QA - Podstawy konsoli deweloperskiej.
 
 ## My Test Documentation
 
