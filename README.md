@@ -23,6 +23,8 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 * Functional testing
 * Reporting bugs
 * Creating test cases
+* Knowledge of ISTQB issues
+* Working in SCRUM metodology
 
 ## Courses
 
