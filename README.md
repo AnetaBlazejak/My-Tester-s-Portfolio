@@ -68,6 +68,7 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 * Fundacja CODE.ME - Tydzień Programisty - Pogadajmy o IT. Praca Juniora
 * Adam Gola - Szkolenie dla QA - Podstawy konsoli deweloperskiej.
 * MeetUp WarszawQA #35
+* StacjaIT - Czym jest dobry UX i jak go projektować?
 
 ## My Test Documentation
 
