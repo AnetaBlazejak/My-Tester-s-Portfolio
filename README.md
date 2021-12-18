@@ -69,6 +69,7 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 * Adam Gola - Szkolenie dla QA - Podstawy konsoli deweloperskiej.
 * MeetUp WarszawQA #35
 * StacjaIT - Czym jest dobry UX i jak go projektować?
+* StacjaIT - API Testing with Postman
 
 ## My Test Documentation
 
