@@ -73,7 +73,7 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 
 ## My Projects
 
-* [Cherry-IT](http://cherry-it.pl/) - Trello Testing 16.11.2021 - 17.01.2022
+* [Cherry-IT](http://cherry-it.pl/) - Trello Testing 16.11.2021 - 17.01.2022 (volunteering)
 
 ## My Test Documentation
 
