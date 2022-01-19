@@ -71,8 +71,14 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 * StacjaIT - Czym jest dobry UX i jak go projektować?
 * StacjaIT - API Testing with Postman
 
+## My Projects
+
+* [Cherry-IT](http://cherry-it.pl/) - Trello Testing 16.11.2021 - 17.01.2022
+
 ## My Test Documentation
 
 * ### Bug Reports
   #### [Bug report for mobile application Zalando](https://docs.google.com/document/d/1UBKAzUuzPdPOEK8oQfsfzF70FG11VKTZ0uQaSTxKSkY/edit?usp=sharing)
-  #### [Film reporting bug](https://mega.nz/file/TGpTRCyK#FkLlhvbt-ZKX0yLR2nLW0CSShr4hLvSihJ3EUWQBNGI)
+  #### [Film reporting bug on mobile application Zalando](https://mega.nz/file/TGpTRCyK#FkLlhvbt-ZKX0yLR2nLW0CSShr4hLvSihJ3EUWQBNGI)
+  #### [Bug report for Trello](https://docs.google.com/document/d/1H3OyAMTxTqqd1qJMWVXC2l3OMct9HG_fvzqT1VyllpA/edit)
+ 
