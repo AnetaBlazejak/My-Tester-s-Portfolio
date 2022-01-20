@@ -82,3 +82,10 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
   #### [Film reporting bug on mobile application Zalando](https://mega.nz/file/TGpTRCyK#FkLlhvbt-ZKX0yLR2nLW0CSShr4hLvSihJ3EUWQBNGI)
   #### [Bug report for Trello](https://docs.google.com/document/d/1H3OyAMTxTqqd1qJMWVXC2l3OMct9HG_fvzqT1VyllpA/edit)
  
+* ### Test Cases
+  #### [Test cases](https://docs.google.com/document/d/1Bn1sPFTsigDxPQ0Scg9NmeJmvQ42S2KHa45eo58wmZg/edit)
+
+* ### Test Scenarios
+  #### [Mind map for testing card templates in Trello](https://drive.google.com/drive/u/0/my-drive?ths=true)
+  
+ 
