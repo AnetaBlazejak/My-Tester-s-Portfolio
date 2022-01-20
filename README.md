@@ -86,6 +86,6 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
   #### [Test cases](https://docs.google.com/document/d/1Bn1sPFTsigDxPQ0Scg9NmeJmvQ42S2KHa45eo58wmZg/edit)
 
 * ### Test Scenarios
-  #### [Mind map for testing card templates in Trello](https://drive.google.com/drive/u/0/my-drive?ths=true)
+  #### [Mind map for testing card templates in Trello](https://drive.google.com/file/d/1Cf09L8nmZQDR804ZTTA2OL1vFIHAPWQH/view?usp=sharing)
   
  
