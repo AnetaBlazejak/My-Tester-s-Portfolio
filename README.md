@@ -30,7 +30,7 @@ I am learning new tools and technologies with pleasure and I am looking for a jo
 
 * [UTest Academy](https://www.utest.com/academy) - in progress
 * [Bazy danych MySQL](https://miroslawzelent.pl/kurs-mysql/)
-* [Kurs Gita w praktyce](https://www.[.com/watch?v=tvHVafvw16Y) - in progress
+* [Kurs Gita w praktyce](https://www.youtube.com/watch?v=tvHVafvw16Y&t=375s) - in progress
 * [Organizacja i zarządzanie testami z wykorzystaniem narzędzia JIRA + Dodatki - WARSZTAT](https://stacja.it/)
 
 ## Recommended blogs and web sites
