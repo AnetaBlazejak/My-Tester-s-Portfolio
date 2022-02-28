@@ -2,10 +2,13 @@
 
 ## About me
 
-Hi, my name is Aneta Błażejak. I studied psychology, worked as a sales and import specialist and now it is time to discover new lands. 
+Hi, my name is Aneta Błażejak. 
 
-I am taking my first steps in the field of testing. I am conscientious and a reliable person, I am good at both teamwork and independent work. 
-I am learning new tools and technologies with pleasure and I am looking for a job that will allow me to become a professional tester.
+I have been testing various websites and applications for almost two years. My studies in psychology, as well as my work in sales and purchasing, have proven to be a great base for exploring a new field.
+
+I am conscientious and a reliable person, I am good at both teamwork and independent work. I am open to learning new tools and programs. 
+I would like to pursue a future in security testing.
+
 
 ## Tools
 
