@@ -50,6 +50,8 @@ I would like to pursue a future in security testing.
 * [Testerem być](https://testerembyc.pl/)
 * [DlaTesterów.pl](https://www.dlatesterow.pl/)
 * [Oh My Dev](https://ohmydev.pl/)
+* [Samouczek Programisty](https://www.samouczekprogramisty.pl/)
+* [Flynerd](https://www.flynerd.pl/)
 
 ## Books read
 
