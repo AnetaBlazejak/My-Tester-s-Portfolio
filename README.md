@@ -20,6 +20,7 @@ I would like to pursue a future in security testing.
 * Trello
 * Postman
 * Browser developer console
+* Confluence
 
 ## Tech skills
 
