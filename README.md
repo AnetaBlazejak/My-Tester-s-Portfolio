@@ -35,34 +35,6 @@ I would like to pursue a future in security testing.
 * [Kurs Gita w praktyce](https://www.youtube.com/watch?v=tvHVafvw16Y&t=375s) - in progress
 * [Organizacja i zarządzanie testami z wykorzystaniem narzędzia JIRA + Dodatki - WARSZTAT](https://stacja.it/)
 
-## Recommended blogs and web sites
-
-* [Testuj.pl](https://testuj.pl/blog/)
-* [Testerzy.pl](https://testerzy.pl/)
-* [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
-* [Cherry-IT](http://cherry-it.pl/)
-* [Bloger Sii](https://sii.pl/blog/)
-* [Waldemar Szafraniec - wyszkolewas](https://www.wyszkolewas.com.pl/blog/)
-* [Jaktestowac.pl](https://jaktestowac.pl/blog/)
-* [Testelka.pl](https://testelka.pl/blog/)
-* [Kobiety do kodu](https://kobietydokodu.pl/)
-* [Testerem być](https://testerembyc.pl/)
-* [DlaTesterów.pl](https://www.dlatesterow.pl/)
-* [Oh My Dev](https://ohmydev.pl/)
-* [Samouczek Programisty](https://www.samouczekprogramisty.pl/)
-* [Flynerd](https://www.flynerd.pl/)
-
-## Books read
-
-* [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-* [Zawód tester - Radosław Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
-* [Certyfikowany tester, Sylabus poziomu podstawowego ISTQB](https://sjsi.org/ist-qb/do-pobrania/)
-* [Certyfikowany tester zwinny - Rozszerzenie poziomu podstawowego, Sylabus ISTQB](https://sjsi.org/ist-qb/do-pobrania/)
-* [Testowanie oprogramowania. Podręcznik dla początkujących - Rafał Pawlak](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
-* [Testowanie oprogramowania w praktyce, Studium przypadków 2.0 - Adam Roman, Karolina Zmitrowicz](https://lubimyczytac.pl/ksiazka/4928223/testowanie-oprogramowania-w-praktyce-studium-przypadkow-2-0)
-* [Algorytmy Ilustrowany przewodnik - Aditya Bhargava](https://lubimyczytac.pl/ksiazka/4819674/algorytmy-ilustrowany-przewodnik)
-* [Atomowe nawyki. Drobne zmiany, niezwykłe efekty - James Clear](https://lubimyczytac.pl/ksiazka/4898707/atomowe-nawyki-drobne-zmiany-niezwykle-efekty)
-
 ## Webinars
 
 * TestArmy - Jak hakerzy manipulują pracownikami?
@@ -93,5 +65,33 @@ I would like to pursue a future in security testing.
 
 * ### Test Scenarios
   #### [Mind map for testing card templates in Trello](https://drive.google.com/file/d/1Cf09L8nmZQDR804ZTTA2OL1vFIHAPWQH/view?usp=sharing)
-  
+
+## Recommended blogs and web sites
+
+* [Testuj.pl](https://testuj.pl/blog/)
+* [Testerzy.pl](https://testerzy.pl/)
+* [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
+* [Cherry-IT](http://cherry-it.pl/)
+* [Bloger Sii](https://sii.pl/blog/)
+* [Waldemar Szafraniec - wyszkolewas](https://www.wyszkolewas.com.pl/blog/)
+* [Jaktestowac.pl](https://jaktestowac.pl/blog/)
+* [Testelka.pl](https://testelka.pl/blog/)
+* [Kobiety do kodu](https://kobietydokodu.pl/)
+* [Testerem być](https://testerembyc.pl/)
+* [DlaTesterów.pl](https://www.dlatesterow.pl/)
+* [Oh My Dev](https://ohmydev.pl/)
+* [Samouczek Programisty](https://www.samouczekprogramisty.pl/)
+* [Flynerd](https://www.flynerd.pl/)
+
+## Books read
+
+* [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+* [Zawód tester - Radosław Smilgin](https://lubimyczytac.pl/ksiazka/291227/zawod-tester)
+* [Certyfikowany tester, Sylabus poziomu podstawowego ISTQB](https://sjsi.org/ist-qb/do-pobrania/)
+* [Certyfikowany tester zwinny - Rozszerzenie poziomu podstawowego, Sylabus ISTQB](https://sjsi.org/ist-qb/do-pobrania/)
+* [Testowanie oprogramowania. Podręcznik dla początkujących - Rafał Pawlak](https://helion.pl/ksiazki/testowanie-oprogramowania-podrecznik-dla-poczatkujacych-rafal-pawlak,szteop.htm#format/d)
+* [Testowanie oprogramowania w praktyce, Studium przypadków 2.0 - Adam Roman, Karolina Zmitrowicz](https://lubimyczytac.pl/ksiazka/4928223/testowanie-oprogramowania-w-praktyce-studium-przypadkow-2-0)
+* [Algorytmy Ilustrowany przewodnik - Aditya Bhargava](https://lubimyczytac.pl/ksiazka/4819674/algorytmy-ilustrowany-przewodnik)
+* [Atomowe nawyki. Drobne zmiany, niezwykłe efekty - James Clear](https://lubimyczytac.pl/ksiazka/4898707/atomowe-nawyki-drobne-zmiany-niezwykle-efekty)
+
  
