@@ -32,7 +32,6 @@ I would like to pursue a future in security testing.
 ## Courses
 
 * [UTest Academy](https://www.utest.com/academy) - in progress
-* [Bazy danych MySQL](https://miroslawzelent.pl/kurs-mysql/)
 * [Kurs Gita w praktyce](https://www.youtube.com/watch?v=tvHVafvw16Y&t=375s) - in progress
 * [Organizacja i zarządzanie testami z wykorzystaniem narzędzia JIRA + Dodatki - WARSZTAT](https://stacja.it/)
 
@@ -75,6 +74,8 @@ I would like to pursue a future in security testing.
 * MeetUp WarszawQA #35
 * StacjaIT - Czym jest dobry UX i jak go projektować?
 * StacjaIT - API Testing with Postman
+* LinkedIn Learning - SQL for Testers
+* LinkedIn Learning - Software Testing Foundations: Test Planning.
 
 ## My Projects
 
