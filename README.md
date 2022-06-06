@@ -21,6 +21,7 @@ I would like to pursue a future in security testing.
 * Postman
 * Browser developer console
 * Confluence
+* SQL
 
 ## Tech skills
 
@@ -36,10 +37,10 @@ I would like to pursue a future in security testing.
 * [Kurs Gita w praktyce](https://www.youtube.com/watch?v=tvHVafvw16Y&t=375s) - in progress
 * [Organizacja i zarządzanie testami z wykorzystaniem narzędzia JIRA + Dodatki - WARSZTAT](https://stacja.it/)
 
-## Webinars
+## Webinars & meetings
 
 * TestArmy - Jak hakerzy manipulują pracownikami?
-* Testelka.pl live o Selenium
+* Testelka.pl - live o Selenium
 * Future Collars - Zostań Testerem Oprogramowania
 * Bartosz Kita - Testowanie REST API dla początkujących
 * Fundacja CODE.ME - Tydzień Programisty - Pogadajmy o IT. Praca Juniora
@@ -48,11 +49,20 @@ I would like to pursue a future in security testing.
 * StacjaIT - Czym jest dobry UX i jak go projektować?
 * StacjaIT - API Testing with Postman
 * LinkedIn Learning - SQL for Testers
-* LinkedIn Learning - Software Testing Foundations: Test Planning.
+* LinkedIn Learning - Software Testing Foundations: Test Planning
+* Udemy - Testowanie produktów cyfrowych (testowanie oprogramowania)
+* Warszawskie Dni Informatyki - Arnika Hryszko - Jak być (nie)złym testerem?
+* Warszawskie Dni Informatyki - Sebastian Malaca - Testowanie aplikacji - jak robić to dobrze?
+* Warszawskie Dni Informatyki - Paweł Zwierzchowski - A może tak zaczniemy automatyzować?
+* Warszawskie Dni Informatyki - Mateusz Pabiś - Phishing - Rzut oka na adresy URL
+* Warszawskie Dni Informatyki - Wojciech Ciemski - NFT w służbie bezpieczeństwa
+* Warszawskie Dni Informatyki - Karolina Wierbol - You've got mail, czyli o testach socjotechnicznych z punktu widzenia pentestera.
+
 
 ## My Projects
 
-* [Cherry-IT](http://cherry-it.pl/) - Trello Testing 16.11.2021 - 17.01.2022 (volunteering)
+* [Cherry-IT](http://cherry-it.pl/) - Trello Testing 16.11.2021 - 17.01.2022 (volunteering), 
+* [Cherry-IT](http://cherry-it.pl/) - Odessa - bank application tasting - 04.04.2022 - present (volunteering).
 
 ## My Test Documentation
 
@@ -83,6 +93,8 @@ I would like to pursue a future in security testing.
 * [Oh My Dev](https://ohmydev.pl/)
 * [Samouczek Programisty](https://www.samouczekprogramisty.pl/)
 * [Flynerd](https://www.flynerd.pl/)
+* [Software testing help](https://www.softwaretestinghelp.com/)
+
 
 ## Books read
 
